@@ -1,6 +1,6 @@
 #What's happor
 **简单地说，happor是一个基于netty的小型web controller框架。**
-- - -
+
 在Java世界中，一般使用tomcat+各种MVC框架开发web应用。但是对于REST API开发，MVC框架就显得过重了，我们需要的也许只是一个controller框架。
 > happor实现了以下特性：
 * HTTP消息链式处理（根据URI路由）
