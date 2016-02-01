@@ -12,4 +12,10 @@
 
 #Documents
 
-1. [第一个例子](FirstDemo)
+1. [第一个例子](Doc001.FirstDemo)
+2. [happor基本概念](Doc002.Concept)
+3. [最基础的使用方式](Doc003.BasicUse)
+4. [controller的类型与使用说明](Doc004.ControllerType)
+5. [简化的使用方式：自动扫描controllers](Doc005.AutoScanControllers)
+6. [URI自动解析与注解注入](Doc006.UriParser)
+7. [与spring容器结合](Doc007.WorkWithSpring)
