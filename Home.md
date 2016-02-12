@@ -9,6 +9,7 @@
 * 支持URI自动解析注入
 * 可与spring集成，提供自定义tag
 * 支持注解开发
+* 可与HTTP容器分离，支持代码动态部署
 
 #Documents
 
@@ -19,3 +20,4 @@
 5. [简化的使用方式：自动扫描controllers](Doc005.AutoScanControllers)
 6. [URI自动解析与注解注入](Doc006.UriParser)
 7. [与spring容器结合](Doc007.WorkWithSpring)
+8. [使用HTTP容器实现代码动态部署](Doc008.ContainerServer)
